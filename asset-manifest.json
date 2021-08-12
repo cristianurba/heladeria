@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/lacasadeloshelados/static/css/main.cc7b2396.chunk.css",
+    "main.js": "/lacasadeloshelados/static/js/main.0797adc8.chunk.js",
+    "main.js.map": "/lacasadeloshelados/static/js/main.0797adc8.chunk.js.map",
+    "runtime-main.js": "/lacasadeloshelados/static/js/runtime-main.ab4da605.js",
+    "runtime-main.js.map": "/lacasadeloshelados/static/js/runtime-main.ab4da605.js.map",
+    "static/css/2.c363d580.chunk.css": "/lacasadeloshelados/static/css/2.c363d580.chunk.css",
+    "static/js/2.aaac4f09.chunk.js": "/lacasadeloshelados/static/js/2.aaac4f09.chunk.js",
+    "static/js/2.aaac4f09.chunk.js.map": "/lacasadeloshelados/static/js/2.aaac4f09.chunk.js.map",
+    "static/js/3.5215901c.chunk.js": "/lacasadeloshelados/static/js/3.5215901c.chunk.js",
+    "static/js/3.5215901c.chunk.js.map": "/lacasadeloshelados/static/js/3.5215901c.chunk.js.map",
+    "index.html": "/lacasadeloshelados/index.html",
+    "static/css/2.c363d580.chunk.css.map": "/lacasadeloshelados/static/css/2.c363d580.chunk.css.map",
+    "static/css/main.cc7b2396.chunk.css.map": "/lacasadeloshelados/static/css/main.cc7b2396.chunk.css.map",
+    "static/js/2.aaac4f09.chunk.js.LICENSE.txt": "/lacasadeloshelados/static/js/2.aaac4f09.chunk.js.LICENSE.txt",
+    "static/media/cart-empty.c206ac3e.svg": "/lacasadeloshelados/static/media/cart-empty.c206ac3e.svg",
+    "static/media/cart-full.9d27e7c4.svg": "/lacasadeloshelados/static/media/cart-full.9d27e7c4.svg",
+    "static/media/close.f185d55c.svg": "/lacasadeloshelados/static/media/close.f185d55c.svg",
+    "static/media/garbage.e4efcb06.svg": "/lacasadeloshelados/static/media/garbage.e4efcb06.svg",
+    "static/media/logo.24cc8c4d.svg": "/lacasadeloshelados/static/media/logo.24cc8c4d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab4da605.js",
+    "static/css/2.c363d580.chunk.css",
+    "static/js/2.aaac4f09.chunk.js",
+    "static/css/main.cc7b2396.chunk.css",
+    "static/js/main.0797adc8.chunk.js"
+  ]
+}
