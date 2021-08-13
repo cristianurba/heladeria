@@ -8,6 +8,7 @@
 .cart-content{
     overflow: hidden;
     position: absolute;
+    width: 100px;
     top: 0;
     right: 0;
     background-color: #343a40;
@@ -69,7 +70,7 @@
 
     .cart-content__products{
         height: calc(100vh - 76px - 19px);
-        overflow: hidden;
+        overflow: scroll;
     }
 
     .cart-content__product {
@@ -125,7 +126,7 @@
         position: absolute;
         bottom: 0;
         left: 0;
-        width: 100%;
+        width: 95%;
         border-top: 1px solid #4f5256;
         padding: 15px;
 

@@ -8,7 +8,7 @@ export default function Product(props){
 
     const {product, addProductCart} = props;
     return (
-        <Col xs={3} className="product">
+        <Col xs={12} md={4} lg={3} className="product">
             <Card>
                 <Card.Img variant="top" src={`${BASE_PATH}/${product.image}`} />
                 <Card.Body>

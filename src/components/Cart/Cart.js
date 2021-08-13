@@ -14,7 +14,7 @@ export default function Cart(props){
     const {productsCart, getProductsCart, products} = props;
 
     const [cartOpen, setCartOpen] = useState(false);
-    const widthCartContent = cartOpen ? 400 : 0;
+    const widthCartContent = cartOpen ? 375 : 0;
     const [singleProductsCart, setSingleProductsCart] = useState([]);
     const [cartTotalPrice, setCartTotalPrice] = useState(0);
 
