@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/heladeria/static/css/main.cc7b2396.chunk.css",
-    "main.js": "/heladeria/static/js/main.c36b6303.chunk.js",
-    "main.js.map": "/heladeria/static/js/main.c36b6303.chunk.js.map",
+    "main.css": "/heladeria/static/css/main.4ae7bebf.chunk.css",
+    "main.js": "/heladeria/static/js/main.06eca3d8.chunk.js",
+    "main.js.map": "/heladeria/static/js/main.06eca3d8.chunk.js.map",
     "runtime-main.js": "/heladeria/static/js/runtime-main.07e2981f.js",
     "runtime-main.js.map": "/heladeria/static/js/runtime-main.07e2981f.js.map",
     "static/css/2.c363d580.chunk.css": "/heladeria/static/css/2.c363d580.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.5215901c.chunk.js.map": "/heladeria/static/js/3.5215901c.chunk.js.map",
     "index.html": "/heladeria/index.html",
     "static/css/2.c363d580.chunk.css.map": "/heladeria/static/css/2.c363d580.chunk.css.map",
-    "static/css/main.cc7b2396.chunk.css.map": "/heladeria/static/css/main.cc7b2396.chunk.css.map",
+    "static/css/main.4ae7bebf.chunk.css.map": "/heladeria/static/css/main.4ae7bebf.chunk.css.map",
     "static/js/2.aaac4f09.chunk.js.LICENSE.txt": "/heladeria/static/js/2.aaac4f09.chunk.js.LICENSE.txt",
     "static/media/cart-empty.c206ac3e.svg": "/heladeria/static/media/cart-empty.c206ac3e.svg",
     "static/media/cart-full.9d27e7c4.svg": "/heladeria/static/media/cart-full.9d27e7c4.svg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.07e2981f.js",
     "static/css/2.c363d580.chunk.css",
     "static/js/2.aaac4f09.chunk.js",
-    "static/css/main.cc7b2396.chunk.css",
-    "static/js/main.c36b6303.chunk.js"
+    "static/css/main.4ae7bebf.chunk.css",
+    "static/js/main.06eca3d8.chunk.js"
   ]
 }
